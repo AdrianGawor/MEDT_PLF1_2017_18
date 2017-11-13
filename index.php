@@ -11,7 +11,7 @@ require 'Film.php';
  * Time: 11:13
  */
 
-$film = new Film("Bruce Lee - Der Mann mit der Todeskralle", 5, "https://www.youtube.om/watch?v=80wXmIcyZwk");
+$film = new Film("Bruce Lee - Der Mann mit der Todeskralle", 5, "https://www.youtube.com/watch?v=80wXmIcyZwk");
 
 if (isset($_GET['format'])) {
 
