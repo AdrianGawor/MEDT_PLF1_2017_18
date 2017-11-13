@@ -1,0 +1,12 @@
+{
+    "name": "adrian/plf1",
+    "type": "project",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "AdrianGawor",
+            "email": "adrian.gawor@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
