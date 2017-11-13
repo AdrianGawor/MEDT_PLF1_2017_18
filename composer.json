@@ -8,5 +8,14 @@
             "email": "adrian.gawor@htl.rennweg.at"
         }
     ],
-    "require": {}
+    "repositories": {
+        "kungfumovies": {
+            "type": "vcs",
+            "url": "https://github.com/Weissheiten/htl3r.kungfumovies.git"
+        }
+    },
+    "require": {
+        "endroid/QrCode": "^2.4",
+        "HTL3R/kung-fu-movies": "dev-master"
+    }
 }
